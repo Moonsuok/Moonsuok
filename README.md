@@ -17,6 +17,6 @@
 ## 🗨Contact
 <a href="https://ddu0308.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-yellow?style=flat-square&logo=Tistory&logoColor=black"/></a> <a href="https://www.instagram.com/dduoooooki/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=Instagram&logoColor=white"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:900408so@gmail.com)](mailto:900408so@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moonsuok&theme=dracula)
-[![Moonsuok's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonsuok&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Moonsuok)
+![Moonsuok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moonsuok&theme=dracula)
+![Moonsuok's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonsuok&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
